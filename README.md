@@ -6,14 +6,9 @@
               - 📫 How to reach me: https://twitter.com/AdityaBarde8
               - 😄 Pronouns: he/his, AB
               - ⚡ Fun fact: Like to do side hustle ;)
-  ```
-   ```
+ 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAB4)
-```
-`
-```
-```
-```
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4)
 
 
