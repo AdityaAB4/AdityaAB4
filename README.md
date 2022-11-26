@@ -1,5 +1,5 @@
 👋 **Hi there it's Aditya,**
-         <code><li>   - 🔭 I’m currently working on a Tool which is coming soon!</li></code>
+         <li>   - 🔭 I’m currently working on a Tool which is coming soon!</li>
            
              - 📫 How to reach me: https://twitter.com/AdityaBarde8
              - 😄 Pronouns: he/his, AB
