@@ -15,13 +15,12 @@
 <code><img height="30" src="/assets/tailwindcss.svg" alt="Tailwind CSS"></code>
 <code><img height="30" src="/assets/nextjs.JPG" alt="NextJs"></code>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAB4)
+|<a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaAB4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaAB4&theme=vue" />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4)
 
 
-|<a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaAB4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
