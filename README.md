@@ -1,4 +1,5 @@
 👋 **Hi there it's Aditya,**
+
              - 🔭 I’m currently working on a Tool which is coming soon!
              - 📫 How to reach me: https://twitter.com/AdityaBarde8
              - 😄 Pronouns: he/his, AB
@@ -20,7 +21,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaAB4&theme=vue" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4)
+
 
 
 
