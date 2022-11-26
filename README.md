@@ -23,5 +23,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4)
 
 
-| <a href="https://github-readme-stats.vercel.app/api?username=AdityaAB4" /></a> | <a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaAB4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
