@@ -17,7 +17,7 @@
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAB4)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AdityaAB4}&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaAB4&theme=vue" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4)
