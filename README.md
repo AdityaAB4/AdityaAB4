@@ -1,9 +1,8 @@
 👋 **Hi there it's Aditya,**
-         <li>   - 🔭 I’m currently working on a Tool which is coming soon!</li>
-           
-             - 📫 How to reach me: https://twitter.com/AdityaBarde8
-             - 😄 Pronouns: he/his, AB
-             - ⚡ Fun fact: Like to do side hustle ;)
+         <li> 🔭 I’m currently working on a Tool which is coming soon!</li>
+         <li> 📫 How to reach me: https://twitter.com/AdityaBarde8 </li>
+         <li> 😄 Pronouns: he/his, AB </li>
+         <li> ⚡ Fun fact: Like to do side hustle ;) </li>
              
 
 ### Tech Stack
