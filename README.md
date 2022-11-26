@@ -1,6 +1,6 @@
 👋 **Hi there it's Aditya,**
-
-             - 🔭 I’m currently working on a Tool which is coming soon!
+         <code><li>   - 🔭 I’m currently working on a Tool which is coming soon!</li></code>
+           
              - 📫 How to reach me: https://twitter.com/AdityaBarde8
              - 😄 Pronouns: he/his, AB
              - ⚡ Fun fact: Like to do side hustle ;)
