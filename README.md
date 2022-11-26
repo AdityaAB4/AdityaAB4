@@ -1,6 +1,6 @@
 👋 **Hi there it's Aditya,**
          <li> 🔭 I’m currently working on a Tool which is coming soon!</li>
-         <li> <a href="https://twitter.com/tatheatharv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tatheatharv" height="30" width="40" /></a> </li>
+         <li> <a href="https://twitter.com/AdityaBarde8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tatheatharv" height="30" width="40" /></a> </li>
          <li> 📫 How to reach me: https://twitter.com/AdityaBarde8 </li>
          <li> 😄 Pronouns: he/his, AB </li>
          <li> ⚡ Fun fact: Like to do side hustle ;) </li>
