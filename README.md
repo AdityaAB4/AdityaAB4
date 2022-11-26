@@ -10,7 +10,7 @@
 
 ### Tech Stack
 
-<code><img height="30" src="/assets" alt="HTML5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/html5-original.svg" alt="HTML5"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/css3-original.svg" alt="CSS3"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/javascript-original.svg" alt="Javascript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/git.svg" alt="Git"></code>
