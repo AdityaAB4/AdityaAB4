@@ -16,6 +16,10 @@
 <code><img height="30" src="/assets/tailwindcss.svg" alt="Tailwind CSS"></code>
 <code><img height="30" src="/assets/nextjs.JPG" alt="NextJs"></code>
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/939895742850555934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/delta68" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chakradhar-reddy-d/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19739782/delta6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/delClg1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 |<a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaAB4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/AdityaAB4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAB4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
