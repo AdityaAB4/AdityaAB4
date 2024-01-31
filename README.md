@@ -1,9 +1,8 @@
 👋 **Hi there it's Aditya,**
 <p align="left"> <a href="https://twitter.com/AdityaBarde8" target="blank"><img src="https://img.shields.io/twitter/follow/AdityaBarde8?logo=twitter&style=for-the-badge" alt="AdityaBarde8" /></a> </p>
-         <li> 🔭 I’m currently working on a Tool which is coming soon!</li>
          <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/adityabarde4/">linkedin</> </li>
          <li> 😄 Pronouns: he/his, AB </li>
-         <li> ⚡ Fun fact: Like to do side hustle ;) </li>
+         <li> ⚡ Fun fact: I know how to center a div :) </li>
              
 
 ### Tech Stack
