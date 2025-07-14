@@ -4,8 +4,12 @@
          <li> 😄 Pronouns: he/his, AB </li>
          <li> ⚡ Fun fact: I know how to center a div :) </li>
              
-### My recent project
-<p><a href="https://exceltochartmaker.com/" target="blank"></a> Excel to Chart Maker </p>
+### 🛠️ My Recent Projects
+
+- [Excel to Chart Maker](https://exceltochartmaker.com/) – Convert Excel/CSV data into interactive bar, pie, and line charts instantly.
+- [Tours & Travel Management App](https://travel-mvp-dev.vercel.app/) – Full-stack web app to create and manage travel packages with dynamic itineraries.
+- [Pixel to Inches Converter](https://pixeltoinches.com/) – Handy tool to convert between pixels and inches, including support for various screen resolutions.
+
 
 ### Tech Stack
 
