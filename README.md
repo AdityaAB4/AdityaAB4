@@ -4,6 +4,8 @@
          <li> 😄 Pronouns: he/his, AB </li>
          <li> ⚡ Fun fact: I know how to center a div :) </li>
              
+### My recent project
+<p><a href="https://exceltochartmaker.com/" target="blank"></a> Excel to Chart Maker </p>
 
 ### Tech Stack
 
